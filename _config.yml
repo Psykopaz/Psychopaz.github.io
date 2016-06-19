@@ -1,10 +1,10 @@
 title: Blog Sonia
 description: >
-  Le blog de sonia la débile
+  Le blog de sonia la rigolote
 baseurl: ""
 url: "http://Psychopaz.github.io"
 paginate:	5 # The number of posts to show per page on your homepage
-name: "Sonia la débile"
+name: "Sonia"
 markdown: kramdown
 permalink: none
 kramdown:
