@@ -3,7 +3,9 @@ layout: post
 title: Cet article
 ---
 
-# Titre 1
+
+Titre 1
+===
 
 ## Titre 2
 
