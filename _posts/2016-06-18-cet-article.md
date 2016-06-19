@@ -3,7 +3,6 @@ layout: post
 title: Cet article
 ---
 
-
 Titre 1
 ===
 
