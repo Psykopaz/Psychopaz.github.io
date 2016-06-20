@@ -1,10 +1,10 @@
-title: Blog Sonia
+title: PsyKoKat
 description: >
-  Le blog de sonia la rigolote
+  Psychotic cats are coming for you.
 baseurl: ""
 url: "http://Psychopaz.github.io"
 paginate:	5 # The number of posts to show per page on your homepage
-name: "Sonia"
+name: "Kitty"
 markdown: kramdown
 permalink: none
 kramdown:
