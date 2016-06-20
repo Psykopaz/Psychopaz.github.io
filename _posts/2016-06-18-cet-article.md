@@ -3,15 +3,15 @@ layout: post
 title: Cet article
 ---
 
-Titre 1
+Down with the doge
 ===
 
-## Titre 2
+## Exterminate
 
-Coucou *ceci* est du **texte**.
+Here is our **number one enemy**.
 
 > Blockquote
 
-Ceci est un [lien](http://lophi.ramdam.space)
+Do not be fooled by the cuteness, for he is evil. Love only the cats.
 
-![mon image](/assets/images/sushi.jpg)
+![mon image](/assets/images/doge.jpeg)
