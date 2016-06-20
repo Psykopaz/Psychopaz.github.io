@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Cet article
+title: Concerning the Doge 
 ---
 
-Down with the doge
+Down with the doge.
 ===
 
-## Exterminate
+## Exterminate!
 
-Here is our **number one enemy**.
+Psykokat's **enemy number 1**.
 
 > Blockquote
 
-Do not be fooled by the cuteness, for he is evil. Love only the cats.
+Do not be fooled by the cuteness. Love only the cats.
 
 ![mon image](/assets/images/doge.jpeg)
