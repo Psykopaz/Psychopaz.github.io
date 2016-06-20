@@ -10,7 +10,7 @@ Down with the doge.
 
 Psykokat's **enemy number 1**.
 
-> Blockquote
+> Do not be fooled by the cuteness. Love only the cats.
 
 Do not be fooled by the cuteness. Love only the cats.
 
